@@ -1,2 +1,2 @@
 # Terralyssa
-Land analysis tool
+Geotechnical land analysis tool
