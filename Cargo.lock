@@ -481,6 +481,10 @@ name = "terralyssa-core"
 version = "0.1.0"
 
 [[package]]
+name = "terralyssa-desktop"
+version = "0.1.0"
+
+[[package]]
 name = "terralyssa-frontend"
 version = "0.1.0"
 dependencies = [

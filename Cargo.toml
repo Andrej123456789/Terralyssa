@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
 members = [
-    "terralyssa-core",
+    "terralyssa-core", "terralyssa-desktop",
     "terralyssa-frontend",
 ]
